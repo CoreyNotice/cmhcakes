@@ -1,0 +1,12 @@
+ #image1{
+    display: block;
+  margin: 30% auto;
+
+ 
+}
+#CmhCakes{
+   text-align: center;
+   -webkit-box-reflect:  below 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+   margin:auto;
+   padding:auto;
+}
